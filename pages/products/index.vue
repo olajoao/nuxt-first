@@ -1,6 +1,5 @@
 <template>
   <Header />
-  <NuxtLink to="/">Home page</NuxtLink>
   <List />
 </template>
 <script lang="ts" setup>

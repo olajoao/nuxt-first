@@ -1,6 +1,6 @@
 <template>
   <header class="header">
-    <h1>your logo</h1>
+    <NuxtLink to="/"><h1>LOGO</h1></NuxtLink>
     <div class="right">
       <form class="search" @submit.prevent="">
         <input class="search__input" type="text" placeholder="Procurando algum produto específico?"/>
